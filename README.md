@@ -26,3 +26,9 @@ Time spent: 24 hrs
 ## Walkthrough
 ![test](https://raw.githubusercontent.com/juangarciadev/TheMovieAppSample/master/screenshots/Main%20screen%20with%20search%20bar.png)
 ![test](https://raw.githubusercontent.com/juangarciadev/TheMovieAppSample/master/screenshots/Master%20and%20detail%20screens.png)
+
+## Author
+Juan Garcia, juansftdev@gmail.com
+
+## License
+This framework is available under the MIT license. See the LICENSE file for more info.
